@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dev Rawal
 
-<!--
-**dve-r/dve-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSECE Student at CMU-Africa**
 
-Here are some ideas to get you started:
+I'm pursuing my Master's in Electrical and Computer Engineering at Carnegie Mellon University Africa, graduating December 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of two fields I like: autonomous systems (ML, control, computer vision) and modern power systems (microgrids, renewable energy, grid control). A lot of what I find interesting lives in the overlap such as using AI and optimization to tackle real problems in energy infrastructure.
+
+---
+
+### What I'm working on
+
+- **Energy & Power Systems** — Microgrid sizing and techno-economic analysis
+- **Autonomous Systems** — Computer vision, Inverse Reinforcement Learning, robotics control
+
+### Tools & Languages
+
+- **Languages:** Python, C/C++, MATLAB/Simulink, MicroPython
+- **Robotics:** ROS2 (Jazzy), OpenAI Gym
+- **ML:** Neural networks, Deep Embedded Clustering
+- **Hardware & CAD:** Raspberry Pi Pico, Arduino, Autodesk Fusion 360, Aspen Plus
+
+### Selected Projects *(see pinned repos)*
+
+- **Maximum Entropy IRL** — Recovering expert reward functions in stochastic environments
+
+---
+
+📬 [LinkedIn](www.linkedin.com/in/dve-rawal) · [Email](devrawal1@gmail.com)

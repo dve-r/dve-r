@@ -11,14 +11,14 @@ My work sits at the intersection of two fields I like: autonomous systems (ML, c
 ### What I'm working on
 
 - **Energy & Power Systems** — Microgrid sizing and techno-economic analysis
-- **Autonomous Systems** — Computer vision, Inverse Reinforcement Learning, robotics control
+- **Autonomous Systems** — Computer vision, reinforcement learning, robotics control
 
 ### Tools & Languages
 
 - **Languages:** Python, C/C++, MATLAB/Simulink, MicroPython
 - **Robotics:** ROS2 (Jazzy), OpenAI Gym
 - **ML:** Neural networks, Deep Embedded Clustering
-- **Hardware & CAD:** Raspberry Pi Pico, Arduino, Autodesk Fusion 360, Aspen Plus
+- **Hardware & CAD:** Raspberry Pi Pico, Arduino, Autodesk Fusion 360, Solidworks
 
 ### Selected Projects *(see pinned repos)*
 

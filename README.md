@@ -1,8 +1,8 @@
 # Hi, I'm Dev Rawal
 
-**MSECE Student at CMU-Africa**
+**MSECE Student at CMU**
 
-I'm pursuing my Master's in Electrical and Computer Engineering at Carnegie Mellon University Africa, graduating December 2026.
+I'm pursuing my Master's in Electrical and Computer Engineering at Carnegie Mellon University, graduating December 2026.
 
 My work sits at the intersection of two fields I like: autonomous systems (ML, control, computer vision) and modern power systems (microgrids, renewable energy, grid control). A lot of what I find interesting lives in the overlap such as using AI and optimization to tackle real problems in energy infrastructure.
 

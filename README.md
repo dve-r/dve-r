@@ -23,6 +23,7 @@ My work sits at the intersection of two fields I like: autonomous systems (ML, c
 ### Selected Projects *(see pinned repos)*
 
 - **Maximum Entropy IRL** — Recovering expert reward functions in stochastic environments
+- **Hindsight Experience Replay for Sparse Reward Robotic Manipulation** — Overcoming sparse rewards in continuous control using retroactively relabeled trajectories
 
 ---
 
